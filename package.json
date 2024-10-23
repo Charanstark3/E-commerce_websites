@@ -1,0 +1,13 @@
+{
+  "name": "day-86-altimate-e-commerce-shopping-website-template-main",
+  "version": "1.0.0",
+  "description": "Embark on an exhilarating journey of web development with the \"100 Days, 100 Websites\" challenge! Over the course of 100 days, immerse yourself in the world of HTML, CSS, and JavaScript as you craft 100 unique websites from scratch. Each day presents an opportunity to explore new design concepts, master coding techniques, and unleash your creativity.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.html"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
